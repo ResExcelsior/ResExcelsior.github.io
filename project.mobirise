@@ -136,7 +136,7 @@
               "font-size": "48px",
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "color": "#b50042"
+              "color": "#efefef"
             },
             ".mbr-section-lead": {
               "color": "#ba6411"
@@ -150,14 +150,14 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/lobby-nav1-2016nov26-2000x1125-66.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/fondo-2000x1125-67.png",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": false,
+            "overlay": true,
             "overlayOpacity": 0.5,
             "overlayColor": "#000",
             "contentAlign": "center",
