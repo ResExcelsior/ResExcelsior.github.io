@@ -483,4 +483,11 @@ h6,
   text-align: center;
   font-size: 48px;
   font-family: 'Montserrat', sans-serif;
+  color: #b50042;
+}
+#header1-1 .mbr-section-lead {
+  color: #ba6411;
+}
+#header1-1 .mbr-section-lead B {
+  color: #f7da64;
 }
