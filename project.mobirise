@@ -1,7 +1,7 @@
 {
   "settings": {
     "currentPage": "index.html",
-    "name": "My Site",
+    "name": "Res. Excelsior",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -120,7 +120,7 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
+              "link": "https://resexcelsior.github.io/",
               "size": 0
             }
           },
@@ -150,7 +150,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron-2000x1125-78.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
