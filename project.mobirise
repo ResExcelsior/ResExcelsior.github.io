@@ -150,7 +150,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/fondo-2000x1125-67.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron-2000x1125-78.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
