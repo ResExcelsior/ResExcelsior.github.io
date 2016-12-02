@@ -167,7 +167,7 @@
           },
           "title": "Junta de Condominio",
           "text": "<b>\"Somos Copropietarios agrupados en la Junta de Condominio Res. Excelsior, con el fin de Administrar nuestro Condominio con  mucha Auto Gestion Administrativa y la colaboración de todos\".</b>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://resexcelsior.github.io/\" data-toolbar=\"-mbrBtnMove\">Donde Pagar</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Comunicados</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://resexcelsior.github.io/\" data-toolbar=\"-mbrBtnMove\">Donde Pagar</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" https://resexcelsior.github.io/" data-toolbar=\"-mbrBtnMove\">Comunicados</a>"
         },
         {
           "_name": "footer1",
