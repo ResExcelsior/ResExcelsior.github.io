@@ -23,7 +23,7 @@
     "versionFirst": "3.9.2",
     "uniqCompNum": 3,
     "versionPublish": "3.9.2",
-    "publishType": "github",
+    "publishType": "local",
     "publishPath": "file:///L:/Res%20Excelsior/Website"
   },
   "pages": {
@@ -120,12 +120,12 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
+              "link": "https://resexcelsior.github.io/",
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://resexcelsior.github.io/\">TRABAJOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">JUNTA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Reuniones</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://resexcelsior.github.io/\">Temario</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">AYUDA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Reglamentos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://resexcelsior.github.io/\">Contactos</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://resexcelsior.github.io/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://resexcelsior.github.io//\">TRABAJOS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://resexcelsior.github.io//\" aria-expanded=\"false\">JUNTA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://resexcelsior.github.io//\">Reuniones</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://resexcelsior.github.io/\">Temario</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://resexcelsior.github.io//\" aria-expanded=\"false\">AYUDA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Reglamentos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://resexcelsior.github.io/\">Contactos</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://resexcelsior.github.io//\">DOWNLOAD</a></li>"
         },
         {
           "_name": "header1",
@@ -136,7 +136,7 @@
               "font-size": "48px",
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "color": "#efefef"
+              "color": "#b50042"
             },
             ".mbr-section-lead": {
               "color": "#ba6411"
@@ -150,14 +150,14 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron-2000x1125-78.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/lobby-nav1-2016nov26-2000x1125-66.png",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": true,
+            "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#000",
             "contentAlign": "center",
