@@ -429,6 +429,16 @@
                 "thumb": "@PROJECT_PATH@/assets/images/rep-varias-entrada-cerco-nov2016-2000x1333-45-2000x1333-42.jpg",
                 "image": "@PROJECT_PATH@/assets/images/rep-varias-entrada-cerco-nov2016-2000x1333-45.jpg",
                 "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Azotea",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/azotea-rep3-nov2016-2000x1333-23-2000x1333-78.jpg",
+                "image": "@PROJECT_PATH@/assets/images/azotea-rep3-nov2016-2000x1333-23.jpg",
+                "caption": "Type caption here",
                 "active": true
               }
             ],
